@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://dfybfv1wcf43x"]
+
+[sub_resource type="GDScript" id="GDScript_wqlfl"]
+script/source = "extends CharacterBody2D
+"
+
+[node name="Player" type="CharacterBody2D"]
+script = SubResource("GDScript_wqlfl")

@@ -1,0 +1,11 @@
+# Archivos de caché de Godot
+.godot/
+
+# Archivos binarios de exportación y empaquetado
+*.exe
+*.apk
+*.pck
+*.zip
+
+# Archivos de traducción y editor
+*.translation
